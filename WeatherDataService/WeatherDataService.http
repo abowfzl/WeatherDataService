@@ -1,0 +1,6 @@
+@Digipay_Task_HostAddress = http://localhost:5218
+
+GET {{Digipay_Task_HostAddress}}/api/weather/get
+Accept: application/json
+
+###
